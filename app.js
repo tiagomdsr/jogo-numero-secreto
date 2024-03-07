@@ -1,6 +1,6 @@
 let listaNumeros = [];
 
-let numeroLimite = 10;
+let numeroLimite = 50;
 
 let numeroSecreto = geraNumeroAleatorio();
 
